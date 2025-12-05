@@ -26,7 +26,7 @@ let listaDePedidos = [
         "cliente":"Neymar",
         "id_cliente":95,
         "produto":"X-Verificada",
-        "valor":10.0
+        "valor":40.0
     }
 ]
 
